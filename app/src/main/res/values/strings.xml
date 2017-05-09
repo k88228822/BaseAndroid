@@ -5,14 +5,13 @@
     <string name="error_message">错误</string>
     <string name="empty_message">empty</string>
 
-    <string name="navi_item1">主页</string>
-    <string name="navi_item2">我的大会员</string>
-    <string name="navi_item3">离线缓存</string>
-
-    <string name="navi_item4">我的收藏</string>
-    <string name="navi_item5">历史记录</string>
-    <string name="navi_item6">关注的人</string>
-    <string name="navi_item7">我的钱包</string>
+    <string name="home">主页</string>
+    <string name="hot">热卖</string>
+    <string name="catagory">分类</string>
+    <string name="cart">购物车</string>
+    <string name="mine">我的</string>
+    <string name="title_activity_ware_detail">WareDetailActivity</string>
+    <string name="share">分享</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

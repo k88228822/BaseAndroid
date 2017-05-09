@@ -2,13 +2,247 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/wagnzhen/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="f21f3cb23c8c5c644268d1ad9dfbd1d675717415">
-        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3875a06dc3e3b957c3b6d9344f506835bcb36aec/classes.dex" />
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_e4d9042176dabcb656a053f63a5a865fc480f73b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.87.0/6b0bd924be0cc3374f32df089ede9dcea6bdef97/realm-android-0.87.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b0bd924be0cc3374f32df089ede9dcea6bdef97">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/realm-android-0.87.0_0b781c4989fba2145a1ec205b283b360eca2dac9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_ebf8c867c50e71e586a3e5a7e7d5080701e8b7e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_634064f242ea8a55c138dac28dbcc98fc8d3598e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/okio-1.11.0_7cde6c83e160bf44aa8bd2baee82a3757aa6a97c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/40ec6dbb97b6567ec1eb1c4127356cd7526d71fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_9c0070bd2235a767e4cbe1f86c8b1a7c0feacb29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.2/cfccdd18cdfbe7b4773d42c9f3512eeafbe5cbf9/rxjava-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfccdd18cdfbe7b4773d42c9f3512eeafbe5cbf9">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/rxjava-2.0.2_6c598ade8f3313ceed443aa98d49aac6484c0a57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/picasso-2.3.2_53715c54183bc50e48031b905fd48e3de2227542.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/d501fdcdd43616962bcadf0716a5dafc67162ae0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_df482f5683154f1a8ee09df2204a8846fcc7b9a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/22a1b3e326351fec903edc38fd4027b71f1a9e9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_0d213549461987cb45ba242315900c1d31e5f43f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/2c5338731f8a7a97e96b4634fc81e3bc457042b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f8bee169957506578df40084c46dcce783c70fe">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_fc929c9f6660709f0b80513a8ff88ba926ee276d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/f1d9fc7cefe180d49114d0d4f481dcdbe95de329/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_96c9c1d02f471be57995f5335f2a197b7765628e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/9e7a38a1cd22a8a726d7642b926fa95a6c66c988/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_fe039c6c5710599aca0e7041035b945816212843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/4c3d44a38446f39e69c39ed1e8ff68f51cf8c4d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_5ccaf23b9ba4e91b22af4eeae8e97642821ab812.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/8db349ca16a5f47605cf32dfb6611f695ac0fb3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_14aadb3c5ce4d36eceb8902bb787004ff819f597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/6d51e05fbab7254e7824744768e0b92f299b09bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_a00129a045e4a4a569bd3808bad3e9d0a5fc08e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/a45d808c908ce09f3c92c47f55fc4d0d77b542b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_4be8fdc034ff0bb6ae8857b611be54991b0abbdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/ac7a5e26d57d3d6944dbb3288e067881e671b58c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_6d894723383a608ebea139ea6716bfbc44588dba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/50c57eda15ef0890b4ced78aec2a9877c7e068fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_a473ef1ab2c661afc33343f00a35eb36b73ef062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/4fd1b5c28131d831500a2da3b2728563bdab719c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4744089ba76f30cbe4ee3aaa85f2b10003a11993">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_60aefe6d9295c10f0507a8ff44d8ebd90c082ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_7f174f59b4a4e60569eb465fc02bb0a91f817d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/50c51e4306e1a39d2d3cc113ca4318e7b56e9b27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_ee171357f92eb2ad24657c1013b8ed0e19603d28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_f352f4bce2edf096b0d051e09432f0494afacd88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/gson-2.7_80b703f3c86580956a1f7f2606b8a63c0366891e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/244e4373eb1f5b3e73c48cbdd25f08417e0dbd11/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9413e1129be675656b5a9a140a3431c622d5a30">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_191cb8a07b6f71a10a2c0ffe8397f6e25e1b9a59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/603bba0f9153c382ffcef182e0bd86203c1956ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_795cb53011537b14c27aea8a419f9d4b30aeb32e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.4.1_156f75ff7eec9b6d14b6a9264170fc721c746d1c.jar" />
     </item>
     <item
         is-multidex="true"
@@ -18,6 +252,51 @@
         revision="25.0.2"
         sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
         <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8aea77b323e9fd6b4752a8dd3216df00bcbc7ef6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/e117362a2103f8ec01091ebd2f40aca4e1ada599/retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/retrofit2-rxjava2-adapter-1.0.0_1aab7a8f9b189b7591a0f0d0b5292f1af1a9b8ad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34fa82f4851061020d3232308f857bd25d390134">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3875a06dc3e3b957c3b6d9344f506835bcb36aec/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_16fb7e11ae0c3bb5dccea303b9d115f93d078063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/09ca79ff36a7617bf1f6019297d24fb68aaca6c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b83a4b286fe2d068d47e9f9567758f6319b1040">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_50f6a7fd8efdc9586f65e461cf96f7148f32d3ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wagnzhen/.android/build-cache/c7965912c03a4fb53135fe6d9d934ff7704c839d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/wagnzhen/AndroidStudioProjects/MyProject/BaseProject/app/build/intermediates/pre-dexed/debug/classes_e99afed02a8cb9bbb0d5eb997eae805e7b15d8bf.jar" />
     </item>
 
 </items>

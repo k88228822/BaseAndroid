@@ -1,5 +1,6 @@
 package com.hello.baseproject.entity;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -13,6 +14,7 @@ public class RVItem {
     private Map<String,String> imgUrls;
     private Map<String,Integer> txtIDs;
     private Map<String,String> txtContent;
+    private ArrayList<String> contents=new ArrayList<>();
 
     public RVItem(int type) {
         this.type=type;
@@ -44,6 +46,10 @@ public class RVItem {
 
     public Map<String, Integer> getTxtIDMap() {
         return txtIDs;
+    }
+
+    public ArrayList<String> getContents() {
+        return contents;
     }
 
 }

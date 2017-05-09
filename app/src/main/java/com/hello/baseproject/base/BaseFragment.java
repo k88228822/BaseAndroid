@@ -7,12 +7,17 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
+import io.reactivex.disposables.Disposable;
 
 public abstract class BaseFragment extends Fragment
 {
     private Unbinder bind=null;
+    public List<Disposable> disposables=new ArrayList<>();
     private View rootView;
 
     @Nullable
@@ -43,6 +48,15 @@ public abstract class BaseFragment extends Fragment
     public void onDestroy() {
         super.onDestroy();
         bind.unbind();
+        if(disposables.size()!=0){
+            for(Disposable a:disposables){
+                a.dispose();
+            }
+        }
+    }
+
+    public void addSubsribe(Disposable a){
+        disposables.add(a);
     }
 
     public abstract int getLayoutId();

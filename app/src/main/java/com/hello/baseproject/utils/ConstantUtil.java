@@ -40,5 +40,8 @@ public class ConstantUtil {
     //preference中的key
     public static final String Login_Status="isLogin";//登录状态
 
+    //根路径
+    public static final String BASIC_URL="http://112.124.22.238:8081/";
+
 
 }
